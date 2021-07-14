@@ -12,8 +12,8 @@ body {
 .header {
     background-color: #2D25A0;
     transition: background-color 5s;
-    width: 1440px;
-    height: 677px;
+    width: 1350px;
+    height: 650px;
     padding-bottom: 180px
 }
 
